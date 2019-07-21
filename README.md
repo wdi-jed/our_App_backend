@@ -1,4 +1,4 @@
-# Name of Appp
+# Name of App
 
 ## Web Application Description 
 
